@@ -158,7 +158,7 @@ export default function Home() {
             <section className="home-board">
                 <section className="hero-panel">
                     <div className="hero-photo-block">
-                        <img src="./cj_profileimg.jpeg" alt="임채주 프로필" className="hero-photo" />
+                        <img src="./cj_profileimg.jpg" alt="임채주 프로필" className="hero-photo" />
                     </div>
 
                     <div className="hero-copy">
